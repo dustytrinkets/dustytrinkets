@@ -1,6 +1,8 @@
 # Hi! I'm Laura
 
-### I am a developer with a passion for learning, exploring and developing with new technologies.
+I am a developer with a passion for learning, exploring and developing with new technologies.
+
+Also I am a psychologist, philosophy student, book lover, deadhead, traveller and some other random things
 
 ### Welcome to my GitHub!
 
