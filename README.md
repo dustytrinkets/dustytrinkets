@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi! I'm Laura
 
-[![@dustytrinkets's Holopin board](https://holopin.io/api/user/board?user=dustytrinkets)](https://holopin.io/@dustytrinkets)
+I am a developer with a passion for learning, exploring and developing with new technologies.
+
 
 
 <!--
@@ -16,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![@dustytrinkets's Holopin board](https://holopin.io/api/user/board?user=dustytrinkets)](https://holopin.io/@dustytrinkets)
+
 -->
