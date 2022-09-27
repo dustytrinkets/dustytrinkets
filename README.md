@@ -1,8 +1,8 @@
-### Hi! I'm Laura
+# Hi! I'm Laura
 
-I am a developer with a passion for learning, exploring and developing with new technologies.
+### I am a developer with a passion for learning, exploring and developing with new technologies.
 
-
+### Welcome to my GitHub!
 
 <!--
 **dustytrinkets/dustytrinkets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
