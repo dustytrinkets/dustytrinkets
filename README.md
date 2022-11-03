@@ -6,6 +6,8 @@ Also I am a psychologist, philosophy student, book lover, deadhead, traveller an
 
 ### Welcome to my GitHub!
 
+[![@dustytrinkets's Holopin board](https://holopin.me/dustytrinkets)](https://holopin.io/@dustytrinkets)
+
 <!--
 **dustytrinkets/dustytrinkets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
